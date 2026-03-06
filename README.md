@@ -1,4 +1,4 @@
-# Ayrshire AI Model Optimizer
+# <img src="assets/Ayrshire_icon.png" width="40"> Ayrshire AI Model Optimizer
 
 Ayrshire AI Model Optimizer는 다양한 AI 추론 환경에서 사용할 수 있도록\
 딥러닝 모델을 **자동으로 최적화하고 실행 가능한 형태로 변환하는
