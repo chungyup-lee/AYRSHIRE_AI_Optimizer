@@ -1,13 +1,13 @@
-# GAUR AI Model Optimizer
+# Ayrshire AI Model Optimizer
 
-GAUR AI Model Optimizer는 다양한 AI 추론 환경에서 사용할 수 있도록\
+Ayrshire AI Model Optimizer는 다양한 AI 추론 환경에서 사용할 수 있도록\
 딥러닝 모델을 **자동으로 최적화하고 실행 가능한 형태로 변환하는
 기능**입니다.
 
 AI 모델을 실제 산업 환경에 적용할 때 발생하는 **성능, 지연시간, 하드웨어
 호환성 문제**를 해결하기 위해 설계되었습니다.
 
-GAUR Optimizer를 사용하면 하나의 모델을 다양한 AI 추론 플랫폼에서
+Ayrshire Optimizer를 사용하면 하나의 모델을 다양한 AI 추론 플랫폼에서
 안정적으로 사용할 수 있습니다.
 
 ------------------------------------------------------------------------
@@ -16,7 +16,7 @@ GAUR Optimizer를 사용하면 하나의 모델을 다양한 AI 추론 플랫폼
 
 ## 다양한 AI 추론 플랫폼 지원
 
-GAUR Optimizer는 여러 AI 실행 환경에 맞게 모델을 변환하고 최적화할 수
+Ayrshire Optimizer는 여러 AI 실행 환경에 맞게 모델을 변환하고 최적화할 수
 있습니다.
 
 지원 플랫폼
@@ -48,7 +48,7 @@ AI 모델을 실제 서비스 환경에 맞게 자동으로 최적화합니다.
 
 ## 산업용 AI 환경에 최적화
 
-GAUR Optimizer는 특히 다음과 같은 환경을 고려하여 설계되었습니다.
+Ayrshire Optimizer는 특히 다음과 같은 환경을 고려하여 설계되었습니다.
 
 -   머신비전 검사 시스템
 -   Edge AI 장치
@@ -72,7 +72,7 @@ GAUR Optimizer는 특히 다음과 같은 환경을 고려하여 설계되었습
 
 # 사용 목적
 
-GAUR AI Optimizer는 다음과 같은 환경에서 활용될 수 있습니다.
+Ayrshire AI Optimizer는 다음과 같은 환경에서 활용될 수 있습니다.
 
 -   머신비전 검사 시스템
 -   산업용 AI 검사 장비
@@ -85,11 +85,11 @@ GAUR AI Optimizer는 다음과 같은 환경에서 활용될 수 있습니다.
 
     AI 모델
        ↓
-    GAUR Model Optimizer
+    Ayrshire Model Optimizer
        ↓
     최적화된 추론 엔진
        ↓
-    AI 검사 시스템 / Edge AI 장치
+    AI 검사 시스템 (Window) / Edge AI 장치 (Linux)
 
 ------------------------------------------------------------------------
 
@@ -103,10 +103,10 @@ GAUR AI Optimizer는 다음과 같은 환경에서 활용될 수 있습니다.
 
 ------------------------------------------------------------------------
 
-# GAUR AI Inference Engine
+# AyrshireAI Inference Engine
 
-GAUR AI Model Optimizer는\
-**GAUR AI Inference Engine의 핵심 구성 요소 중 하나입니다.**
+Ayrshire AI Model Optimizer는\
+**Ayrshire AI Inference Engine의 핵심 구성 요소 중 하나입니다.**
 
 AI 모델을 실제 서비스 환경에서 사용할 수 있도록\
 **최적화 및 실행 환경을 구성하는 역할**을 수행합니다.
@@ -122,4 +122,4 @@ MIT License
 # Contact
 
 Industrial AI Vision Platform\
-GAUR AI Inference Engine
+Ayrshire AI Inference Engine
