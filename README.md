@@ -113,13 +113,14 @@ AI 모델을 실제 서비스 환경에서 사용할 수 있도록\
 
 ------------------------------------------------------------------------
 
-# License
+# Repository Scope
 
-MIT License
+이 저장소는 AI Optimizer 구조를 제공합니다.
+
+실제 상용 AI 및 소스 코드는 포함되어 있지 않습니다.
 
 ------------------------------------------------------------------------
 
-# Contact
+# BISON AI Vision Lab
 
-Industrial AI Vision Platform\
-Ayrshire AI Inference Engine
+스마트 제조를 위한 산업용 AI 검사 기술
