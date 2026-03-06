@@ -1,3 +1,13 @@
+<p align="left">
+🇺🇸 <a href="README_eng.md">English</a> |
+🇰🇷 <a href="README.md">한국어</a>
+</p>
+
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="BISON AI Banner">
+</p>
+
+
 # <img src="assets/Ayrshire_icon.png" width="40"> Ayrshire AI Model Optimizer
 
 Ayrshire AI Model Optimizer는 다양한 AI 추론 환경에서 사용할 수 있도록\
